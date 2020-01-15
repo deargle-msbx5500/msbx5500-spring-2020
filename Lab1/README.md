@@ -134,7 +134,7 @@ What job requirements stand out to you in the postings that you see:
 
 Which jobs are the most interesting to you? Why?
 
-- [ ] **Deliverable:** Show me what method you are using to manage your job search process.
+- [x] **Deliverable:** Show me what method you are using to manage your job search process.
 
 
 
