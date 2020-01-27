@@ -116,8 +116,8 @@ But there are many other places that will let you run jupyter notebooks on their
 
 ## AWS SAGEMAKER TUTORIAL
 
-Below is the link for the super awesome AWS SageMaker Tutorial:
-[Here is the tutorial!](https://aws.amazon.com/getting-started/tutorials/build-train-deploy-machine-learning-model-sagemaker/?sc_icampaign=pac-sagemaker-console-tutorial&sc_ichannel=ha&sc_icontent=awssm-2276&sc_iplace=console-body&trk=ha_awssm-2276)
+Link for the super awesome AWS SageMaker Tutorial:
+[Here is the tutorial!](https://aws.amazon.com/getting-started/tutorials/build-train-deploy-machine-learning-model-sagemaker/)
 
 Kaggle also has hosted jupyter notebooks. [Kaggle also has good python-for-datascience tutorials](https://www.kaggle.com/learn/). Do the first seven (!) or so -- up to the TensforFlow one. These will take a while, but should be very good get-feet-wet introductions.
 
