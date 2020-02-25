@@ -3,7 +3,7 @@ Lab 3: Script-kiddie machine learning model fitting and evaluation
 
 * task uses one dataset, credit card fraud. load using fetch_openml
 * use sklearn pipeline from that one example for test-train-split, preprocessing and fitting
-* fit 3 different classifiers models (e.g., logistic regression, SVM, decision tree) with their defaults
+* fit 3 different classifiers models (e.g., logistic regression, SVM, Random Forrest) with their defaults
 * plot the three models on a ROC curve and on a precision-recall curve
 * for each model, report accuracy, AUC of ROC, and AUC of precision-recall
 * for the model with the highest precision-recall AUC, report the cutoff threshold that maximizes the F1 score. Report the confusion matrix for the same threshold.
