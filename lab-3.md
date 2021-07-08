@@ -1,7 +1,8 @@
 Lab 3: Script-kiddie machine learning model fitting and evaluation
 ==================================================================
 
-* task uses one dataset, credit card fraud. load using fetch_openml
+* task uses one dataset, credit card fraud. 
+	* load using fetch_openml
 * use sklearn pipeline from that one example for test-train-split, preprocessing and fitting
 * fit 3 different classifiers models (e.g., logistic regression, SVM, decision tree) with their defaults
 * plot the three models on a ROC curve and on a precision-recall curve
@@ -22,14 +23,18 @@ Also, read these recent posts on my blog.
 * [OpenML Rabbithole](https://daveeargle.com/2020/02/06/openml-rabbithole/)
 
 
-
-This lab is confusing
+This lab is confusing (For real)
 ---------------------
 
-Your mom.
-
-I'm exhausted after making the example notebook. Submit pull requests that modify this lab writeup. If you can do everything I did in the lab write-up,
+Submit pull requests that modify this lab writeup. If you can do everything I did in the lab write-up,
 then mission accomplished.
+
+* if as_frame parameter is not working in fetch_openml, then your scikit-learn is probably out of date.
+	* check the version:
+		> conda list scikit-learn
+	* update version:
+		> pip install -U scikit-learn
+	* [Source](https://scikit-learn.org/stable/install.html)
 
 
 
